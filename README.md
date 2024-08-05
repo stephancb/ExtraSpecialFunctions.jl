@@ -1,6 +1,8 @@
-# MyAwesomePackage
-A dummy package for the [Julia Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages)
+# ExtraSpecialFunctions
 
+with further special functions which are not included [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl)
+
+<!---
 To create a new package (let's say `MyPackage`):
 - fork this package in your own or your organisation account (let's say `MyUser`)
 - from the github interface:
@@ -12,7 +14,7 @@ To create a new package (let's say `MyPackage`):
   - update `docs/src/index.md` and `docs/src/anotherPage.md`
 - get it in julia. From a Julia prompt type `] [ENTER]` to enter the `pkg` prompt and then `add git@github.com:MyUser/MyPackage.jl.git`
 - declare you want to develop it. Still from the `pkg` prompt, type; `dev MyPackage`. Your new package will be in `[JULIA_ROOT]/dev/MyPackage`. 
-
+--->
 
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://sylvaticus.github.io/MyAwesomePackage.jl/stable)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://sylvaticus.github.io/MyAwesomePackage.jl/dev)
