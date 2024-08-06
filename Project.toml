@@ -1,12 +1,9 @@
-name = "MyAwesomePackage"
-uuid = "19daf8e9-0870-4f25-9c1d-f38ed379fe1e"
-authors = ["Antonello Lobianco <antonello@lobianco.org>"]
-version = "0.0.1"
+name = "ExtraSpecialFunctions"
+uuid = "64ee8a5e-53ca-11ef-25d3-15fa101fa44a"
+authors = ["Stephan Buchert <scb@irfu.se>"]
+version = "0.1"
 
 [deps]
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
-DataFrames = "1"
 julia = "1"
